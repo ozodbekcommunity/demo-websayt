@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    color: green;
+}
